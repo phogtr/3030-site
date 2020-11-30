@@ -34,14 +34,6 @@ nav.navbar-dark {
   padding: 0.5rem 1rem;
 }
 
-/* remove this later */
-nav.navbar {
-  background: #002e5d;
-  border-radius: 0;
-  border: none;
-  max-height: 50px;
-}
-
 .navbar-toggler {
   border: none;
 }
