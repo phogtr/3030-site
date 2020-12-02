@@ -13,6 +13,10 @@ button:focus {
   outline: 0;
 }
 
+.img-fluid {
+  max-width: 90%;
+}
+
 .description {
   margin-bottom: 2rem;
 }
