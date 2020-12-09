@@ -74,7 +74,8 @@ nav.navbar-dark {
     font-weight: normal;
   }
 
-  .question {
+  .question,
+  .dev-name {
     font-size: 19px;
   }
 
@@ -84,5 +85,9 @@ nav.navbar-dark {
 
   .offset-2 {
     margin-left: 0;
+  }
+
+  .img-char {
+    width: 20%;
   }
 }
