@@ -13,6 +13,14 @@ button:focus {
   outline: 0;
 }
 
+.p-text {
+  font-size: 18px;
+}
+
+.ln-height {
+  line-height: 1.4;
+}
+
 .img-fluid {
   max-width: 90%;
 }
@@ -69,7 +77,8 @@ nav.navbar-dark {
     padding: 0.5rem 0rem;
   }
 
-  h3 {
+  h3,
+  .p-text {
     font-size: 16px;
     font-weight: normal;
   }
