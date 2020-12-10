@@ -13,6 +13,10 @@ button:focus {
   outline: 0;
 }
 
+.txt-center {
+  text-align: center;
+}
+
 .p-text {
   font-size: 18px;
 }
@@ -64,6 +68,16 @@ nav.navbar-dark {
   color: #d1d9dc;
 }
 
+.btn {
+  font-size: 2rem;
+  border-radius: 0.3rem;
+  margin: 1rem 0.1rem 0 0.1rem;
+}
+
+.btn-outline-light:hover {
+  background-color: #bbbbbb;
+}
+
 @media (max-width: 576px) {
   .nav-link {
     padding: 0.3rem 3rem;
@@ -98,5 +112,9 @@ nav.navbar-dark {
 
   .img-char {
     width: 20%;
+  }
+
+  .btn {
+    font-size: 1.5rem;
   }
 }
