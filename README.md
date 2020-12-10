@@ -1,3 +1,7 @@
 # 3030-site
 
-A site that display ... for the game that I made with my team.
+A static website for the game **3030**.
+
+Check out the link: <https://site-3030.herokuapp.com/>
+
+And also download the game and enjoy! Thank you.
